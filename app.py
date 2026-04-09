@@ -156,7 +156,7 @@ def try_platform_login(open_id, access_token, platform_type):
         game_data.timestamp = "2024-12-05 18:15:32"
         game_data.game_name = "free fire"
         game_data.game_version = 1
-        game_data.version_code = "1.121.1"
+        game_data.version_code = "1.123.1"
         game_data.os_info = "Android OS 9 / API-28 (PI/rel.cjw.20220518.114133)"
         game_data.device_type = "Handheld"
         game_data.network_provider = "Verizon Wireless"
